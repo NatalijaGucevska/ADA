@@ -39,6 +39,8 @@ This process could take time. Also, working with images always involve some expe
 # Questions for TAa
 How much time can we spend on image processing. Will that be considered as valuable part of the project? 
 
+# References
+
 <a name="1">1</a>: NAz, K. A. Y. A., and Helena Epps. "Relationship between color and emotion: A study of college students." College Student J 38.3 (2004): 396.
 
 <a name="2">2</a>: An idea from http://cs229.stanford.edu/proj2015/127_report.pdf
