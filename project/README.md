@@ -3,7 +3,7 @@
 
 # Abstract
 <!--A 150 word description of the project idea, goals, dataset used. What story you would like to tell and why? What's the motivation behind your project? -->
-It is known that color and emotion are strongly related <sup><[1](#1)<sup>. The goal of this project is to analyze the imact of this link on the book preferences. We will analyze the link between the cover of the book and the quality of it's content. <!--Are some books not popular just because of their neutral appearance. -->
+It is known that color and emotion are strongly related <sup>[1](#1)</sup>. The goal of this project is to analyze the imact of this link on the book preferences. We will analyze the link between the cover of the book and the quality of it's content. <!--Are some books not popular just because of their neutral appearance. -->
 
 For this purpose we will use the dataset with book details including reviews from Amazon. We will use the reviews received by the reader, the colors and shapes that appear on the cover and eventually the images that appear in the book. We will analyze if there are different trends that appear for different book categories and if the trends have a period of duration. We will also take in account the usefulness of the reviews, i.e. only the helpful reviews will be considered. 
 
