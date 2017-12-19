@@ -33,6 +33,7 @@ As seen in other research such as [1], the book covers are correlated to the cat
 - prediction-output-run9.2.txt contains our prediction with the latest model.
 - cluster-utils.py contains code to run our findings on the clustering part.
 - utils.py contains other utility functions used in the project.
+- url.txt contains the urls to download the covers.
 
 - https://www.dropbox.com/sh/wgoysmpucy3ibr3/AAAKl_3cOOFMtbeF866MG5A9a?dl=0 Dropbox access to the model
 
