@@ -24,7 +24,7 @@ After that we tried to find a model to predict a book category from its cover fe
 
 ## Conclusions
 
-TODO: once report conclusion is written.
+As seen in other research such as [1], the book covers are correlated to the category of the book. We were able to reproduce that in our project and validate it on different categories and on bigger number of books by category. On this point our work was conclusive, but this was not the case for the cover change over years and we were unsuccessful in predicting the publication date of a book. That can be related to the fact that the features are more concentrated on the objects that appear on the covers and doesn't take in account the colors. It can be possible that with different way of generating the features we can obtain better result on predicting the publication year of the book cover or even the sales ranking.
 
 ## Description of this repository
 
@@ -34,9 +34,9 @@ TODO: once report conclusion is written.
 
 ## Description of members contributions
 
-- Natalija Gucevska: Exploratory analysis & data merging, hierarchical clustering for categories and years, image processing, report writting.
-- Sébastien Chevalley: Exploratory analysis & data merging, K-means clustering, CNN classification, report writting.
-- Alexis Montavon: Exploratory analysis & data merging, sales analysis, SVM classification, report writting.
+- Natalija Gucevska: Exploratory analysis & data merging, hierarchical clustering for categories and years, image processing, report writting, will present the poster.
+- Sébastien Chevalley: Exploratory analysis & data merging, K-means clustering, CNN classification, report writting, will work on the poster.
+- Alexis Montavon: Exploratory analysis & data merging, sales analysis, SVM classification, report writting, will work on the poster.
 
 ## References
 
@@ -46,5 +46,5 @@ TODO: once report conclusion is written.
 
 ## Other research
 
-* B. K. Iwana, S. T. Raza Rizvi, S. Ahmed, A. Dengel, and S. Uchida, "Judging a Book by its Cover," arXiv preprint arXiv:1610.09204 (2016).
+* [1] B. K. Iwana, S. T. Raza Rizvi, S. Ahmed, A. Dengel, and S. Uchida, "Judging a Book by its Cover," arXiv preprint arXiv:1610.09204 (2016).
 
