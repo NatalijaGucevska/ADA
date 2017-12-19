@@ -30,6 +30,7 @@ TODO: once report conclusion is written.
 
 - Project Notebook.ipynb contains the code and its output used to do our researches.
 - report directory contains the pdf report of the project.
+- https://www.dropbox.com/sh/wgoysmpucy3ibr3/AAAKl_3cOOFMtbeF866MG5A9a?dl=0 Dropbox access to the model
 
 ## Description of members contributions
 
